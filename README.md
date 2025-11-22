@@ -7,7 +7,6 @@ This is the support documentation for Paw Park Pulse, hosted on GitHub Pages.
 - **index.md** – Main support page (FAQ & troubleshooting)
 - **privacy.md** – Privacy Policy
 - **_config.yml** – Jekyll configuration
-- **CNAME** – Custom domain configuration
 
 ## Local Testing
 
