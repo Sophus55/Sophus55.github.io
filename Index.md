@@ -16,7 +16,7 @@ Welcome to Paw Park Pulse support. We're here to help you discover dog parks, co
 ### Getting Started
 
 **Q: What is Paw Park Pulse?**  
-A: Paw Park Pulse helps dog owners discover and explore dog parks in their area. You can find parks on a map, check in with friends, share reviews, and suggest park improvements—all built around a welcoming community.
+A: Paw Park Pulse helps dog owners discover and explore dog parks in their area. You can find parks on a map, check in with friends, share reviews, and suggest park information—all built around a welcoming community.
 
 **Q: What are the system requirements?**  
 A: iOS 14.0 or later on iPhone or iPad. The app works best with location services enabled.
@@ -38,13 +38,13 @@ A: Open the app and allow location access. The map will automatically show dog p
 A: Checking in tells the community you're at a park right now. Other users can see who's checked in, helping you connect with fellow dog owners and know if a park is busy.
 
 **Q: How do I add a new dog park?**  
-A: If a park is missing, open the app's menu and tap "Suggest a Park." Fill in the details and submit. Our team will review it within 24–48 hours.
+A: If a park is missing, open the app's menu and tap "Suggest a Park." Fill in the details and submit. The park may not show up right away, we have a semi autonomous system in place that requires mulitple users to sudgest the same additions/changes for them to take affect.
 
 **Q: Can I suggest changes to a park?**  
 A: Yes! On any park's detail page, tap "Suggest a Change" to report updates like new amenities, corrected hours, or closed facilities.
 
 **Q: Can I upload photos?**  
-A: Yes. Photos you upload to reviews or park suggestions help build an accurate, helpful community record. Photos remain associated with your account unless you delete them.
+A: Currently only dog photos are supported. We want to Impliment a park photo feature in the future.
 
 **Q: Can I see my dog's profile in the app?**  
 A: Yes. When you sign up, you can optionally add your dog's name, breed, and a note. This profile is private and only you see it.
@@ -55,7 +55,7 @@ A: Yes. When you sign up, you can optionally add your dog's name, breed, and a n
 
 **Q: What's included in the Paw Park Pulse subscription?**  
 A: We offer two tiers:
-- **Single** ($2.99/month) – Ad-free browsing, unlimited check-ins, and enhanced park insights
+- **Single** ($2.99/month) – Ad-free browsing, and the ability to add more than one dog profile, as well as future features
 - **Family** ($9.99/month) – Includes everything in Single, plus family sharing
 
 (Pricing may vary by region.)
@@ -142,8 +142,7 @@ If location still doesn't work, some parks may not be visible, but you can still
 
 1. **Confirm you're signed in:** Check-ins require an active account
 2. **Check internet connection:** A strong WiFi or cellular connection is required
-3. **Refresh the map:** Pull down to reload park data
-4. **Wait a moment:** New check-ins may take a few seconds to appear
+3. **Wait a moment:** New check-ins may take a few seconds to appear
 
 ---
 
@@ -190,7 +189,7 @@ When contacting support, please include:
 - Any error messages you see
 - Screenshots if helpful
 
-**Response Time:** We aim to respond within 24–48 business hours.
+**Response Time:** We aim to respond as soon as possible, we are a small team.
 
 ---
 
