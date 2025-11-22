@@ -1,0 +1,13 @@
+title: Paw Park Pulse Support
+description: Help, FAQ, and troubleshooting for Paw Park Pulse
+theme: jekyll-theme-slate
+
+# GitHub Pages settings
+url: https://Sophus55.github.io
+baseurl: /paw-park-pulse-support
+
+# Remove unnecessary downloads
+show_downloads: false
+
+# Site settings
+permalink: /:title/
